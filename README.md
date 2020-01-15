@@ -1,4 +1,4 @@
-#Apple USB Ethernet Adapter - Windows Driver
+# Apple USB Ethernet Adapter - Windows Driver
 
 ![Apple USB Ethernet Adpater](Apple%20USB%20Ethernet%20Adapter%20MC704.jpg "Apple USB Ethernet Adpater")
 
@@ -13,7 +13,7 @@ Easily connect your computer to an Ethernet network with the Apple USB Ethernet 
 * External PHY loop-back diagnostic capability
 * Based on ASIX AX88772A USB to 10/100 Fast Ethernet/HomePNA controller
 * Embedded 20KB SRAM for RX packet buffering and 8KB SRAM for TX packet buffering
-* Operating temperature range: 0¡ãC to 70¡ãC
+* Operating temperature range: 0°C to 70°C
 * Built-in 4.6-inch USB cable
 
 ## Usage
