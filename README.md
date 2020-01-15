@@ -1,6 +1,6 @@
 #Apple USB Ethernet Adapter - Windows Driver
 
-![Apple USB Ethernet Adpater](https://raw.githubusercontent.com/M-Mono/Apple_USB_Ethernet_Adapter_Windows_Driver/master/Apple%20USB%20Ethernet%20Adapter%20MC704.jpg "Apple USB Ethernet Adpater")
+![Apple USB Ethernet Adpater](Apple%20USB%20Ethernet%20Adapter%20MC704.jpg "Apple USB Ethernet Adpater")
 
 
 ## Apple USB Ethernet Adpater Tech Specs
@@ -13,17 +13,18 @@ Easily connect your computer to an Ethernet network with the Apple USB Ethernet 
 * External PHY loop-back diagnostic capability
 * Based on ASIX AX88772A USB to 10/100 Fast Ethernet/HomePNA controller
 * Embedded 20KB SRAM for RX packet buffering and 8KB SRAM for TX packet buffering
-* Operating temperature range: 0¡ãC to 70¡ãC
+* Operating temperature range: 0Â¡Ã£C to 70Â¡Ã£C
 * Built-in 4.6-inch USB cable
 
-##Usage
+## Usage
 
 * Download AX88772A driver corresponding to your Windows version from [ASIX official website](http://www.asix.com.tw/download.php?sub=driverdetail&PItemID=97)
 * Extract driver files from downloaded package
 * Place patch.bat in the same folder as Ax88772.inf and run it
 * Install patched driver. Note: You may need to [enable 3rd-party driver on Windows 8](http://www.nextofwindows.com/how-to-install-an-un-signed-3rd-party-driver-in-windows-8/)
 
-#####For your convenience, a patched version for Windows 7 & 8 64bit is included.
+**For your convenience, a patched version for Windows 7 & 8 64bit is included.**
 
-##Thanks
+## Thanks
+
 **[Thia Repo is forked from snullp/AppleEthernet.](https://github.com/snullp/AppleEthernet)**
